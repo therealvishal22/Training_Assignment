@@ -1,0 +1,15 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\bin\Debug\net6.0\OOPSpract1.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\bin\Debug\net6.0\OOPSpract1.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\bin\Debug\net6.0\OOPSpract1.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\bin\Debug\net6.0\OOPSpract1.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\bin\Debug\net6.0\OOPSpract1.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\refint\OOPSpract1.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\OOPSpract1.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\OOPSpract1\OOPSpract1\obj\Debug\net6.0\ref\OOPSpract1.dll

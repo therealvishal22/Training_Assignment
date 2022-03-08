@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <script src="external.js"></script>
+        <title>onclick</title>
+        <style>
+            body{background-color: skyblue;}
+           #btn1{background-color: green;}
+           #btn2{background-color: yellow;}
+           #btn3{background-color: orange;}
+
+        </style>
+        <script type="text/javascript">
+            function Demojavascript()
+            {
+                alert("This Is JavaSript")
+                document.getElementById("bun1").style.backgroundColor="gray";
+            }
+            function Demojavascript2()
+            {
+                document.getElementById("bun2").style.backgroundColor="red";
+                alert("This Is Promt JavaSript")
+            }
+            function Demojavascript3()
+            {
+                alert("This Is Confirm JavaScript")
+                document.getElementById("bun3").style.backgroundColor="yellow";
+            }
+             
+        </script>
+
+        <body>
+            <input type="button" id="btn1" value="Alert" onclick="alert('thsi is alert')">&nbsp;&nbsp;&nbsp;
+            <input type="button" id="btn2" value="Prompt"onclick="prompt('Enter Here')">&nbsp;&nbsp;&nbsp;
+            <input type="button" id="btn3" value="confirm" onclick="confirm('are you sure')">
+            
+            <hr>
+            
+            <input type="button" id="bun1" value="Alert" onclick="Demojavascript('thsi is alert')">&nbsp;&nbsp;&nbsp;
+            <input type="button" id="bun2" value="Prompt"onclick="Demojavascript2('Enter Here')">&nbsp;&nbsp;&nbsp;
+            <input type="button" id="bun3" value="confirm" onclick="Demojavascript3('are you sure')">
+            
+            <HR></HR>
+           
+            <input type="button" id="tn1" value="Alert" onclick="external1('External JavaScript Alert')">&nbsp;&nbsp;&nbsp;
+            <input type="button" id="ttn2" value="Prompt"onclick="prompt('External JavaScript Prompt')">&nbsp;&nbsp;&nbsp;
+            <input type="button" id="tn3" value="confirm" onclick="confirm('External JavaScript Confirm')">
+            
+        </body>
+    </head>
+</html>

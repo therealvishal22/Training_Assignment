@@ -1,0 +1,16 @@
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.csproj.AssemblyReference.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.AssemblyInfoInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.AssemblyInfo.cs
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.csproj.CoreCompileInputs.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\bin\Debug\net5.0\oopsassign.exe
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\bin\Debug\net5.0\oopsassign.deps.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\bin\Debug\net5.0\oopsassign.runtimeconfig.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\bin\Debug\net5.0\oopsassign.runtimeconfig.dev.json
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\bin\Debug\net5.0\oopsassign.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\bin\Debug\net5.0\oopsassign.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\refint\oopsassign.dll
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.pdb
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\oopsassign.genruntimeconfig.cache
+D:\OneDrive - Krish Compusoft Services Pvt Ltd\Assignment\OOPS\oopsassign\oopsassign\obj\Debug\net5.0\ref\oopsassign.dll
